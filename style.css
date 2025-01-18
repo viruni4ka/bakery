@@ -1,0 +1,273 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+header{
+    background-color: #7f7f7f;
+    padding-top: 32px;
+    padding-bottom: 128px;
+    color: white;
+    font-family: Cormorant Garamond;
+}
+
+header img{
+    display: block;
+    margin: auto;
+}
+
+header h1{
+    font-weight: 700;
+    font-size: 60px;
+    list-style: 73px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+header h2{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 48px;
+}
+
+header a{
+    display: block;
+    background-color: #c48a49;
+    width: 175px;
+    height: 51px;
+    border-radius: 50px;
+    margin: auto;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: scale(1);
+    transition: transform 0.4s linear;
+}
+
+main{
+    font-family: 'Cormorant Garamond';
+    background-color: white;
+}
+
+section h4{
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 600;
+    color: #c48a49;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+section h3{
+    font-size: 36px;
+    line-height: 43px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.section-text{
+    font-size: 24px;
+    line-height: 29px;
+    font-weight: 700;
+    text-align: center;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 32px;
+    width: 613px;
+}
+
+.img-sign{
+    display: block;
+    margin: auto;
+    width: 183px;
+}
+
+.sign{
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.sign-name{
+    color: #c48a49;
+}
+
+.section-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+
+.goods-name{
+    font-size: 24px;
+    line-height: 29px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.goods-weight{
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 600;
+    text-align: center;
+    color: #555555;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.goods-price{
+    font-size: 24px;
+    line-height: 29px;
+    font-weight: 600;
+    text-align: center;
+    color: #c48a49;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.goods{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1251px;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.section-2{
+    background-color: #F5F4EF;
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+
+footer{
+    background-color: #21202C;
+    font-family: 'Cormorant Garamond';
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+
+footer h4{
+    color: #c48a49;
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+footer h3{
+    color: white;
+    font-size: 36px;
+    line-height: 44px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+footer p{
+    color: white;
+    font-size: 24px;
+    line-height: 29px;
+    font-weight: 600;
+    text-align: center;
+    width: 614px;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.footer-tel{
+    color: #c48a49;
+}
+
+form label{
+    color: white;
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+footer input{
+    background-color: #21202C;
+    border: 1px solid white;
+    border-radius: 12px;
+    width: 440px;
+    height: 48px;
+    margin-bottom: 24px;
+    color: white;
+    font-size: 14px;
+    padding-left: 12px;
+}
+
+form button{
+    background-color: #c48a49;
+    color: white;
+    width: 175px;
+    height: 51px;
+    border-radius: 50px;
+    margin: auto;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    font-family: 'Cormorant Garamond';
+    margin-top: 16px;
+    transform: scale(1);
+    transition: 0.4s linear;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body{
+    margin: 0;
+    height: 100%;
+}
+header a:hover{
+    transform: scale(1.25);
+}
+
+form button:hover{
+    transform: scale(1.25);
+}
+
+.goods img{
+    opacity: 0.5;
+    transform: scale(1);
+    transition: 0.4s linear; opacity: 0.4s linear;
+}
+
+.goods img:hover{
+    transform: scale(1.25);
+    opacity: 1;
+}
